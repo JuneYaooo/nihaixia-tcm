@@ -119,7 +119,3 @@ python3 scripts/search_screenshots.py 少阴 下利
 
 - 已整理：`07.伤寒论课程`
 - 待扩展：`金匮要略`、`针灸大成/人纪针灸`、`黄帝内经`、`神农本草经`
-
-## 致谢
-
-资料结构来自课程转写、逐课分析、截图证据和后续知识蒸馏整理。README 的展示结构参考 [`gpt-image2-ppt-skills`](https://github.com/JuneYaooo/gpt-image2-ppt-skills)。

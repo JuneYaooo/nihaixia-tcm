@@ -172,7 +172,7 @@ This project is for personal study, material organization, and technical exchang
 
 ## Acknowledgements and community
 
-Thanks to [LINUX DO - Chinese Developer Community](https://linux.do/) and the [Datawhale community](https://github.com/datawhalechina) for their long-running support of open learning, technical exchange, and collaborative knowledge building. This project shares the same open and mutual-help spirit and is for learning and exchange only.
+Thanks to the [Datawhale community](https://github.com/datawhalechina) and [LINUX DO - Chinese Developer Community](https://linux.do/) for their long-running support of open learning, technical exchange, and collaborative knowledge building. This project shares the same open and mutual-help spirit and is for learning and exchange only.
 
 ## Current coverage
 

@@ -172,7 +172,7 @@ python3 scripts/search_screenshots.py 针灸 足三里
 
 ## 致谢与社区
 
-感谢 [LINUX DO — 中文开发者社区](https://linux.do/) 与 [Datawhale 社区](https://github.com/datawhalechina) 对开源学习、技术交流和知识共创氛围的长期推动。本项目的整理和分享也希望延续这种开放互助的社区精神，仅供学习交流使用。
+感谢 [Datawhale 社区](https://github.com/datawhalechina) 与 [LINUX DO — 中文开发者社区](https://linux.do/) 对开源学习、技术交流和知识共创氛围的长期推动。本项目的整理和分享也希望延续这种开放互助的社区精神，仅供学习交流使用。
 
 ## 当前覆盖
 
